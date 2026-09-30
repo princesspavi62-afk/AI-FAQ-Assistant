@@ -1,0 +1,11 @@
+[
+  {"question": "What is this project?", "answer": "This is an AI FAQ Assistant built with Flask that answers common questions."},
+  {"question": "How do I run the project?", "answer": "Run python app.py and open http://127.0.0.1:5000 in your browser."},
+  {"question": "What is Flask?", "answer": "Flask is a lightweight Python web framework."},
+  {"question": "What is HTML?", "answer": "HTML stands for HyperText Markup Language. It is used to build web pages."},
+  {"question": "What is Python?", "answer": "Python is a popular programming language known for its simple syntax."},
+  {"question": "What is GitHub?", "answer": "GitHub is a platform to store and share code using Git."},
+  {"question": "What is VS Code?", "answer": "VS Code is a code editor used to write and run programs."},
+  {"question": "What is an API?", "answer": "An API lets two software applications talk to each other."},
+  {"question": "What is JSON?", "answer": "JSON is a simple text format used to store and exchange data."}
+]
